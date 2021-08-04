@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "firstName": "Bassant",
+      "lastName": "Tarek",
+      "email": "bhefny@gmail.com",
+      "mobile": 123654789,
+      "salary": 1000
+    },
+    {
+      "id": 3,
+      "firstName": "Mohammed",
+      "lastName": "Hefny",
+      "email": "mo@yahoo.com",
+      "mobile": 125478963,
+      "salary": 2000
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
